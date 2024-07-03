@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Koushik
 🔭Masters graduate looking to work on ML/DL applications in ADAS developement <br/>
 👯 Studied [Commercial Vehicle Technology] at Technical University of Kaiserslautern <br/>
 🌱 I’m currently learning AWS, DevOps(CI/CD) Pipeline deployment.<br/>
