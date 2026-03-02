@@ -12,12 +12,6 @@
 💼 **Background:** Evomotiv GmbH (ADAS) · AXISCADES (Aerospace, Bombardier)
 🌐 **Portfolio:** [koushiksamudrala.github.io](https://KoushikSamudrala.github.io)
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KoushikSamudrala&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikSamudrala&layout=compact&theme=dark&hide_border=true)
-
----
 💡 Open to full-time AI/ML Engineering roles in Germany or remote EU
 
 # 💻 Tech Stack:
