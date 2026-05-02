@@ -7,7 +7,7 @@
 
 ---
 
-🔭 **Currently building:** Multi-agent AI orchestration (n8n + CrewAI + MCP)
+🔭 **Currently building:** Multi-agent AI orchestration (n8n + Langchain + LlamaIndex + MCP)
 🧠 **Research:** Published at ICMLA 2024 — Applied ML for autonomous systems
 💼 **Background:** Evomotiv GmbH (ADAS) · AXISCADES (Aerospace, Bombardier)
 🌐 **Portfolio:** [koushiksamudrala.github.io](https://KoushikSamudrala.github.io)
